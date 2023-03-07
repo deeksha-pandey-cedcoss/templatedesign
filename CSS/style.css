@@ -3,14 +3,10 @@
     margin-left:  2.5%;
     margin-right: 4.5%;
     margin-top: 0%;
-
-   
-   
 }
 .header{
     text-align: justify;
     padding: 2.5%;
-    
     font-size: 120%;
 }
 .section{
@@ -21,9 +17,7 @@
 }
 
 .footerclass{
-   
     margin: 1rem;
-    
     text-align: justify;
     display: flex;
     margin-top: 5%;
@@ -32,6 +26,5 @@
 .footerclass__1{
     
     display: inline-block;
-   
     margin-left: 1%;
 }
